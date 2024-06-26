@@ -1,2 +1,11 @@
 # DS-Apple-Quality-Analysis
-A file with EDA and model selection for prediction of category in a dataset with information about parameters of apples.This file includes in depth analysis of the provided data using both visualisation and statistics. It includes rigorous use of pandas, numpy and scikitlearn libraries for dealing with data. It involved a good understanding of data, data cleaning and feature engineering. It includes comparison between multiple prediction models to get the best out of them.
+This project focuses on predicting categories of apple parameters using exploratory data analysis (EDA), model selection, and rigorous data preprocessing techniques. The dataset contains detailed information about various parameters of apples.
+
+# Project Overview
+• Objective: Predict categories based on apple parameters using machine learning models.
+
+• Techniques Used: EDA, data cleaning, feature engineering, and model evaluation.
+
+• Libraries Used: Pandas, NumPy, Scikit-learn.
+
+• Models Evaluated: Multiple machine learning models were evaluated and compared.
